@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "extends": [
+    "simenb-base",
+    "simenb-node",
+    "simenb-jsdoc"
+  ],
+  "rules": {
+    // TODO: enable after getting rid of stampit (https://github.com/SimenB/stylint/issues/359)
+    // Will use arrow functions then
+    "func-names": "off"
+  }
+}
