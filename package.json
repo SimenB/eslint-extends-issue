@@ -8,7 +8,7 @@
     "print-config-jq": "npm run --silent print-config | jq '.extends'"
   },
   "dependencies": {
-    "eslint": "^3.16.1",
+    "eslint": "^4.18.2",
     "eslint-config-simenb-base": "^11.0.1",
     "eslint-config-simenb-jsdoc": "^3.0.6",
     "eslint-config-simenb-node": "^0.4.4",
